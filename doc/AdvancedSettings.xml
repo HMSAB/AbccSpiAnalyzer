@@ -57,7 +57,7 @@
 		<!-- Path to the log file to simulate. No quotes, backslash/forward slashes are acceptable.
 		Empty or invalid paths will disable "log file simulation" and instead "standard simulation"
 		mode will be executed. -->
-		<LogFilePath></LogFilePath>
+		<LogFilePath>C:\WORK\GIT\AbccSpiAnalyzer\doc\abcc_log_file_examples\pir_adimap_alltypes_webaccess.log</LogFilePath>
 
 		<!-- Default ABCC state (integer) for "log file simulation". Use one of the raw values
 		specified in ABP_AnbStateType. Invalid values will default to SETUP state. -->
